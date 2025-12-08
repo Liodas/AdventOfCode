@@ -1,0 +1,9 @@
+[*.{fs,fsx}]
+fsharp_record_multiline_formatter = multiline
+fsharp_max_record_width = 20
+fsharp_max_if_then_else_short_width = 50
+fsharp_max_function_binding_width = 50
+fsharp_align_function_signature_to_indentation = true
+fsharp_keep_max_number_of_blank_lines = 1
+fsharp_experimental_keep_indent_in_branch = true
+fsharp_max_infix_operator_expression = 50
